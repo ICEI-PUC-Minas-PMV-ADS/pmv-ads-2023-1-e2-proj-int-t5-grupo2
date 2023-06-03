@@ -213,17 +213,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| O site deve ser simples e acessível  | MÉDIA | 
-|RF-002| O site deve conter todas as informações do desaparecido e estar sempre atualizado dentro do possível   | ALTA |
-|RF-003| O site deve permitir ao usuário visualizar o texto completo da notícia com todos os detalhes da publicação    | MÉDIA |
-|RF-004| O site deve oferecer um menu adicional que permita ao usuário visualizar notícias de fontes distintas (sources)    | MÉDIA |
-|RF-005| O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir ao usuário localizar um texto específico que será informado na caixa de pesquisa   | ALTA |
-|RF-006| O site deve permitir visualizar as informações de contatos do mantenedor do site    | MÉDIA |
-|RF-007| O site deve permitir o compartilhamento de notícias visualizadas em plataformas de redes sociais    | BAIXA |
-|RF-008| O site deve permitir salvar notícias preferidas    | BAIXA |
-|RF-009| O site deve permitir verificar as notícias salvas como preferidas    | BAIXA |
-|RF-0010| O site deve permitir que usuários possam comentar notícias    | BAIXA |
-|RF-0011| O site deve permitir que o usuário possa anexar imagens e arquivos    | ALTA |
+|RF-001| Interagir com os Posts de pessoas desaparecidas.  | MÉDIA | 
+|RF-002| O site deve gerenciar as informações dos desaparecidos.    | ALTA |
+|RF-003| O sistema deve fornecer campos para observações do desaparecido, ex: hora, data, roupa, local que o desaparecido foi visto por último.   | ALTA |
+|RF-004| O sistema deve ter a opção de anexar arquivos do desaparecido.     | ALTA |
+|RF-005| O sistema deve conter um portal de notícias com todos os desaparecidos.    | ALTA |
+|RF-006| O site deve apresentar uma página ou rodapé com as informações para contato com os mantedores do mesmo.    | BAIXA |
+|RF-007| O site deve permitir o compartilhamento de desaparecidos em outras redes de comunicação.   | MÉDIA |
+|RF-008| O sistema deve conter um filtro para encontrar as informações do desaparecido com mais facilidade.   | ALTA |
+|RF-009| O sistema deve fornecer cadastro/login a fim de assegurar as informações do usuário.  | ALTA |
+|RF-0010| O sistema deve fornecer uma página com informações de precauções a fim de evitar que um familiar/amigo desapareça.  | MÉDIA |
+|RF-0011| O sistema deve ter a opção de atualizar o cadastro do desaparecido a partir de novas informações de seus familiares/amigos.  | ALTA |
 
 ### Requisitos não Funcionais
 
