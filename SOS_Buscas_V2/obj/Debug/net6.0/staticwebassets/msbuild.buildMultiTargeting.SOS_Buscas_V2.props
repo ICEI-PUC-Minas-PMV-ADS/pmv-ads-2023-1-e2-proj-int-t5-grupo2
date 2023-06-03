@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\SOS_Buscas_V2.props" />
-</Project>
