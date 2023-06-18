@@ -1,13 +1,14 @@
 - Teste de Usabilidade para o Site SOS pessoas desaparecidas
 
+- 
 - Objetivo do teste: 
 
-- Detectar problemas de interface;
-- Verificar a acessiblidade do Site;
-- Avaliar a satisfação do úsuario;
-- Validar o software se o usúario consegue ter informações atualizadas dos desaparecidos.
-- Verificar a experiencia geral do úsuario durante o teste.
-- Verificar a atualização de Post
+Detectar problemas de interface;
+Verificar a acessiblidade do Site;
+Avaliar a satisfação do úsuario;
+Validar o software se o usúario consegue ter informações atualizadas dos desaparecidos.
+Verificar a experiencia geral do úsuario durante o teste.
+Verificar a atualização de Post
 
 - Método: O teste será conduzido com 4 participantes que realizarão tarefas específicas no site, enquanto são observados e coletados dados qualitativos e quantitativos.
 
