@@ -12,12 +12,16 @@ Verificar a atualização de Post
 
 - Método: O teste será conduzido com 4 participantes que realizarão tarefas específicas no site, enquanto são observados e coletados dados qualitativos e quantitativos.
 
-Participantes:
+- Participantes:
 
 Participante 1: Dona Maria iniciante em navegação na web.
+
 Participante 2: Sr.Marcos familiarizado com navegação na web, mas sem experiência em sites de registro de pessoas desaparecidas.
+
 Participante 3: Matheus experiência intermediária em navegação na web.
+
 Participante 4: Monica experiente em navegação na web e já utilizou sites de registro de pessoas desaparecidas anteriormente.
+
 
 - Tarefas a serem realizadas:
 
