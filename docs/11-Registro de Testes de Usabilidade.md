@@ -69,7 +69,6 @@ e enviou o formulario aparecendo uma mensagem de verificação na tela dizendo q
 Pedimos para que ela acessasse  a pagina de busca do site no qual ela fez sem nenhum problema, logo em seguida pedidos para utilizar dos filtros disponiveis para buscar uma pessoa com X aparencia
 e depois pedimos para verificar se os resultados eram iguais aos detalhados no filtro e se as informações contidas estavam acessiveis, seguindo para o cadastro ela teve algumas duvidas 
 auxiliamos e ela conseguiu acessar a pagina de registro e concluiu o formulario para efetuar o cadastro de uma pessoa desaparecida e ja enviou aparecendo uma mensagem de verificação na tela.
-Como  ultima coisa que pedimos, falamos para acessar uma publicação e tentar comentar nela e logo depois atualizar a pagina para ver se o comentario foi enviado corretamente.
 
 Obervações: Como dona Maria não possuia muita experiencia o  tempo foi de 30 minutos, notamos que la ficou nervosa por ser a primeira vez utilizando o site e que sofreu com alguns detalhes do filtro de buscas.
 alguns erros foram cometidos durante a relização das tarefas e ela disse que poderiamos melhorar o sistema de filtro deixando o mais acessivel. 
@@ -80,7 +79,7 @@ Como fizemos antes pedimos para Marcos acessar o site e clicar no botão de se r
 depois de preencher todas informaçoes necessaria ele enviou e logo apareceu a mensagem dizendo que o registro foi feito com sucesso. Em senguida pedimos para acessar a pagina de busca
 e utilizar dos filtros para buscar a pessoa que descrevemos, depois de pesquisar pedimos para verificar se as informaçoes contidas estavam acessiveis e se batiam com o do filtro.
 Em seguida pedimos para ir na pagina de cadastro e efetuar o processedimento de cadastro de uma pessoa ilusoria, depois de preencheer tudo enviou e apareceu a mensagem de verificação.
-Como ultimo pedimo para buscar alguma publicação e acessa-la tentando comentar nela e atualizando a pagina para veficar se está tudo correto.
+
 
 Obervações: Marcos ja possuia alguma experiencia e fez tudo em 20 minutos, não ficou nervoso apenas em duvida sobre o processdimento de registro,e disse a mesma coisa que Maria que poderimos
 melhorar o sistema de filtro deixando o mais acessivel.
@@ -91,7 +90,7 @@ Como fizemos antes pedimos para Matheus acessar o site e clicar no botão de se 
 depois de preencher todas informaçoes necessaria ele enviou e logo apareceu a mensagem dizendo que o registro foi feito com sucesso. Em senguida pedimos para acessar a pagina de busca
 e utilizar dos filtros para buscar a pessoa que descrevemos, depois de pesquisar pedimos para verificar se as informaçoes contidas estavam acessiveis e se batiam com o do filtro.
 Em seguida pedimos para ir na pagina de cadastro e efetuar o processedimento de cadastro de uma pessoa ilusoria, depois de preencheer tudo enviou e apareceu a mensagem de verificação.
-Como ultimo pedimo para buscar alguma publicação e acessa-la tentando comentar nela e atualizando a pagina para veficar se está tudo correto.
+
 
 Obervações: Matheus demorou apenas 14 minutos para realizar todos os testes, não apresentou duvidas, durante o processo de filtro vimos que 1  das informações não batiam e disse a mesma coisa que os 
 participantes anteriores que poderiamos melhorar o sistema de filtro para o deixar mais acessivel, pois para pessoas de mais idade poderia ser um problema.
@@ -103,7 +102,6 @@ dizendo que era preciso estár logado para efetuar o cadastro de desaparecidos, 
 pedimo para seguir a pagina de busca e procurar uma pessoa descrita por nós e consultar para ver se os resultados estavam corretos e estavam iguais com o do filtro,em seguida pedimos novamente
 para seguir  pagina de cadastro no qual agora era possivel acessa-lo, depois de acessar pedimos para prosseguir com proceso de cadastrar pessoa, depois de preencher com todas
 informaçoes necessarias ela enviou e a mensagem de confirmação apareceu.
-Como ultimo pedimosp para acessar alguma publicação e tentar comentar e atualizar a pagina para verificar se o comentario foi postado com sucesso.
 
 observações: Monica possuia muita experiencia e fez o processo todo em 10 minutos, não apresentou algum erro nem teve duvidas, achou o filtro acessivel mas comentou que para pessoas mais velhaas
 poderia ser um problema.
